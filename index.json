@@ -3,7 +3,7 @@
         "items":[
             {
                 "name":"微软五笔86( 系统默认 )",
-                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/86/ChsWubi.lex.lzma"
+                "url":"httphttps://raw.fastgit.org/mlzzz/092wb_wubiLex/main/mb/86/ChsWubi.lex.lzma"
             },
         ],
         "name":"五笔86"
@@ -12,11 +12,11 @@
         "items":[
             {
                 "name":"五笔092( 常规 )",
-                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092wb.lex.lzma"
+                "url":"https://raw.fastgit.org/mlzzz/092wb_wubiLex/main/mb/092/092wb.lex.lzma"
             },
             {
-                "name":"五笔092( 扩展 )",
-                "url":"https://wubi.aardio.com/download/lex/main/092wb.lex.lzma"
+                "name":"五笔092( 超集 )",
+                "url":"https://raw.fastgit.org/mlzzz/092wb_wubiLex/main/mb/092/092wbp.lex.lzma"
             },
         ],
         "name":"五笔092"
@@ -25,7 +25,7 @@
         "items":[
             {
                 "name":"五笔092K",
-                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092Kwb.lex.lzma"
+                "url":"https://raw.fastgit.org/mlzzz/092wb_wubilex/main/mb/092/092Kwb.lex.lzma"
             }
         ],
         "name":"五笔092K"
