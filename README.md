@@ -7,6 +7,6 @@ wubilex092版的码表
     if( winex.msCandidate.isVisible() ){
         key.press("NEXT", "SPACE");
     }
-    else key.send("0");
+    else return true;//允许按键继续发送，不改变默认行为
 };
 ```
